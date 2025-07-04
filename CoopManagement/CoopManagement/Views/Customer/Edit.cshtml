@@ -1,0 +1,16 @@
+﻿@model CoopManagementApp.Models.Customer
+
+<h2>Edit Customer</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label for="id_cus">Customer ID</label>
+        <input type="text" class="form-control" id="id_cus" name="id_cus" value="@Model.id_cus" readonly />
+    </div>
+    <div class="form-group">
+        <label for="name_cus">Customer Name</label>
+        <input type="text" class="form-control" id="name_cus" name="name_cus" value="@Model.name_cus" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

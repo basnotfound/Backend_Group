@@ -1,0 +1,30 @@
+﻿@model CoopManagementApp.Models.Transaction
+
+<h2>Create Transaction</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="id_cus">Customer</label>
+        <select class="form-control" id="id_cus" name="id_cus">
+            @foreach (var customer in ViewData["CustomerList"] as SelectList)
+            {
+                <option value="@customer.Value">@customer.Text</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="id_product">Product</label>
+        <select class="form-control" id="id_product" name="id_product">
+            @foreach (var product in ViewData["ProductList"] as SelectList)
+            {
+                <option value="@product.Value">@product.Text</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="quantity">Quantity</label>
+        <input type="number" class="form-control" id="quantity" name="quantity" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

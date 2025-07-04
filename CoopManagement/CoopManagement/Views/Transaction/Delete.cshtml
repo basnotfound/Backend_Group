@@ -1,0 +1,11 @@
+﻿@model CoopManagementApp.Models.Transaction
+
+<h2>Delete Transaction</h2>
+
+<p>Are you sure you want to delete the transaction <strong>@Model.id_transaction</strong>?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" name="id" value="@Model.id_transaction" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

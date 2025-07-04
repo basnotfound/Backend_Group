@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\data\\coopmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\data\\coopmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|e:\\onedrive\\desktop\\sem 5\\coopmanagement\\coopmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC424B-7435-4986-82D8-D254B7C57E52}|CoopManagement\\CoopManagement.csproj|solutionrelative:coopmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Models\\Customer.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "CoopManagement\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:15:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Models\\Product.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Product.cs",
+              "RelativeToolTip": "CoopManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:03:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Models\\Transaction.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\Transaction.cs",
+              "RelativeToolTip": "CoopManagement\\Models\\Transaction.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:07:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CoopManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwHMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:17:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:41:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:35:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Transaction\\Delete.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Delete.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Transaction\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:36:27.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoopManagementContext.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Data\\CoopManagementContext.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Data\\CoopManagementContext.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Data\\CoopManagementContext.cs",
+              "RelativeToolTip": "CoopManagement\\Data\\CoopManagementContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:13:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CoopManagement\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwHMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:19:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Models\\HomeViewModel.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "CoopManagement\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:52:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:36:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T05:13:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CoopManagement\\appsettings.json",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\appsettings.json",
+              "RelativeToolTip": "CoopManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T12:11:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoopManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:15:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "CoopManagement\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:13:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:19:08.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CoopManagement\\Program.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Program.cs",
+              "RelativeToolTip": "CoopManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:16:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:30:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:22:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:33:07.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:33:27.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:25:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:30:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T21:43:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoopManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\SEM 5\\CoopManagement\\CoopManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoopManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T12:02:33.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

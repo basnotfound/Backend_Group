@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CoopManagementApp.Models.Transaction>
+
+<h2>Transaction List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction ID</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Total Price</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+            <tr>
+                <td>@transaction.id_transaction</td>
+                <td>@transaction.Customer.name_cus</td>
+                <td>@transaction.Product.name_product</td>
+                <td>@transaction.quantity</td>
+                <td>@transaction.total_price.ToString("C")</td>
+                <td>@transaction.date_transaction.ToString("dd MMM yyyy")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@transaction.id_transaction">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@transaction.id_transaction">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Add New Transaction</a>

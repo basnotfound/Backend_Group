@@ -1,0 +1,34 @@
+﻿@model IEnumerable<CoopManagementApp.Models.Product>
+
+<h2>Product List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Cost</th>
+            <th>Total Product</th>
+            <th>Receive Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.id_product</td>
+                <td>@product.name_product</td>
+                <td>@product.cost.ToString("C")</td>
+                <td>@product.total_product</td>
+                <td>@product.receive_date.ToString("dd MMM yyyy")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.id_product">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@product.id_product">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Add New Product</a>

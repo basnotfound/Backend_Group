@@ -1,0 +1,11 @@
+﻿@model CoopManagementApp.Models.Customer
+
+<h2>Delete Customer</h2>
+
+<p>Are you sure you want to delete the customer <strong>@Model.name_cus</strong>?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" name="id" value="@Model.id_cus" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
